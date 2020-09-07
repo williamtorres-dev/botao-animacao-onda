@@ -1,6 +1,6 @@
 const button = document.querySelectorAll('a');
 button.forEach((btn) => {
-  btn.addEventListener('click', function (e) {
+  btn.addEventListener('click', (e) => {
     const x = e.clientX - e.target.offsetLeft;
     const y = e.clientY - e.target.offsetTop;
 

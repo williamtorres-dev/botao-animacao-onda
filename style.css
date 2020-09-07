@@ -25,7 +25,7 @@ a {
   letter-spacing: 2px;
   border-radius: 40px;
   overflow: hidden;
-  background: linear-gradient(90deg, #0162c8, #55e7fc);
+  background: linear-gradient(90deg, #0162c8, #0bd4d2);
 }
 
 a:nth-child(2) {
